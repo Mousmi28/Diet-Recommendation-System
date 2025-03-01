@@ -30,3 +30,9 @@ cd diet-recommendation-system
 ```python
 pip install -r requirements.txt
 ```
+## Set Up Environment Variables
+
+- Create a .env file in the project directory and add your Google API Key:
+```python
+GOOGLE_API_KEY=your_google_api_key_here
+```
