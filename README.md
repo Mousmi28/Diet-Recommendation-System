@@ -42,3 +42,37 @@ GOOGLE_API_KEY=your_google_api_key_here
 ```python
 streamlit run app.py
 ```
+
+## Input Parameters
+
+### Users can enter the following details in the UI:
+
+- Age
+
+- Gender
+
+- Weight (kg)
+
+- Height (cm)
+
+- Daily Caloric Intake
+
+- Cholesterol Level (mg/dL)
+
+- Weekly Exercise Hours
+
+- Nutrient Imbalance Score
+
+- Disease Type (Diabetes, Hypertension, Obesity)
+
+- Disease Severity (Mild, Moderate, Severe)
+
+- Physical Activity Level (Sedentary, Moderate, Active)
+
+## Prediction
+
+- The Random Forest model processes the input and predicts a diet recommendation.
+
+- The Gemini AI model generates an additional diet suggestion.
+
+- The results are displayed in the Streamlit app.
