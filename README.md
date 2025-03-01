@@ -36,3 +36,9 @@ pip install -r requirements.txt
 ```python
 GOOGLE_API_KEY=your_google_api_key_here
 ```
+## Usage
+
+- Run the Streamlit App
+```python
+streamlit run app.py
+```
