@@ -25,3 +25,8 @@ Ensure you have Python 3.8+ installed. You also need a Google API Key for Gemini
 git clone https://github.com/your-username/diet-recommendation-system.git
 cd diet-recommendation-system
 ```
+
+## Install Dependencies
+```python
+pip install -r requirements.txt
+```
