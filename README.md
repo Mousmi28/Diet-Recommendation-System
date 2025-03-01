@@ -14,3 +14,14 @@ This project is a Diet Recommendation System built using Streamlit, Scikit-Learn
 
 - Model Persistence: Saves the trained model and scaler using Joblib for future use.
 
+## Installation
+
+## Prerequisites
+
+Ensure you have Python 3.8+ installed. You also need a Google API Key for Gemini AI.
+
+## Clone the Repository
+```python
+git clone https://github.com/your-username/diet-recommendation-system.git
+cd diet-recommendation-system
+```
